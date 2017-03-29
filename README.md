@@ -1,5 +1,7 @@
 # CleanArchitecture
 Clean架构演示
+
+
 1、独立于架构
 
 
@@ -13,3 +15,6 @@ Clean架构演示
 
 
 5、独立于任何外部类库
+
+
+ ![image](https://github.com/wangkangmao/projectname/raw/master/screenshots/vim-screenshot.jpg)
