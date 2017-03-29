@@ -13,6 +13,6 @@ import rx.Observable;
 public class GetPosterTitleRepository implements Repository<String> {
     @Override
     public Observable<String> getObservable() {
-        return Observable.just("niuniu~~");
+        return Observable.just("are you ok~~");
     }
 }

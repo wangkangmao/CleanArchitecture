@@ -14,6 +14,6 @@ public class GetPosterImageRepository implements Repository<String> {
     @Override
     public Observable<String> getObservable() {
 
-        return Observable.just("http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/ac2/29.gif");
+        return Observable.just("http://i.imgur.com/idojSYm.png");
     }
 }
