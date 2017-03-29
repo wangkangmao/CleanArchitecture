@@ -17,4 +17,4 @@ Clean架构演示
 5、独立于任何外部类库
 
 
- ![image](https://github.com/wangkangmao/CleanArchitecture/pic/raw/master/pic_01.png)
+ ![image](https://github.com/wangkangmao/CleanArchitecture/raw/master/pic/pic_01.png)
